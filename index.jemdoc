@@ -42,6 +42,8 @@ Email: /wxing/ \[@\] buaa \[DOT\] edu.cn \n
  {{<span style="color:Maroon;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:Tomato;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:MediumSeaGreen;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
+- Shuo Yin (4th year undergrad)'s work on Bayesian optimization for yield optimization in EDA get accepted by 59th Design automation conference (DAC), the top EDA conference.
+- Our work (me as the first corresponding author) on using Bayesian optimization and reinforce learning to accelerate PTA SPICE solver get accepted by 59th Design automation conference (DAC), the top EDA conference.
 - Undergraduate team win the national university innovation and entrepreneurship competition first prize of North China
 - Thrilled to receive the Excellent Young Scholars of Beihang University (2021)
 
@@ -99,6 +101,7 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 
 
 *Journal Paper*
+- Y. Gu, C. Han, Y. Chen, and W. W. Xing, “Mission Replanning for Multiple Agile Earth Observation Satellites Based on Cloud Coverage Forecasting,” IEEE J. Sel. Top. Appl. Earth Observations Remote Sensing, vol. 15, pp. 594–608, 2022, [https://ieeexplore.ieee.org/document/9652077 \[Link\]]
 - W. W. Xing, M. Cheng, K. Cheng, W. Zhang, and P. Wang, “InfPolyn, a Nonparametric Bayesian Characterization for Composition-Dependent Interdiffusion Coefficients,” Materials, vol. 14, no. 13, p. 3635, Jun. 2021 [https://doi.org/10.3390/ma14133635 \[Link\]]
 - H. Wang, C. Li, W. Xing, Y. Ye, and P. Wang, “A machine learning approach to quantify dissolution kinetics of porous media,” Journal of Machine Learning for Modeling and Computing, 2.2, 2021 [https://doi.org/10.1615/JMachLearnModelComput.2021038529 \[Link\]]
 - W. I. Ibrahim, M. R. Mohamed, R. M. T. R. Ismail, P. K. Leung, W. W. Xing, and A. A. Shah, “Hydrokinetic energy harnessing technologies: A review,” Energy Reports, vol. 7, pp. 2021–2042, Nov. 2021 [https://doi.org/10.3390/ma14133635 \[Link\]]
@@ -117,12 +120,12 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 - W. Xing, A. A. Shah, and P. B. Nair, “Reduced dimensional Gaussian process emulators of parametrized partial differential equations based on Isomap,” Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 471, no. 2174, p. 20140697, Feb. 2015
 
 *Conference Paper*
-- Z. Wang, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity High-Order Gaussian Processes for Physical Simulation,” in International Conference on Artificial Intelligence and Statistics (AISTAT), Mar. 2021, pp. 847–855 [http://proceedings.mlr.press/v130/wang21c.html \[PDF\]]
+- Z. Wang, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity High-Order Gaussian Processes for Physical Simulation,” in International Conference on Artificial Intelligence and Statistics (AISTAT), Mar. 2021, pp. 847–855 [http://proceedings.mlr.press/v130/wang21c/wang21c.pdf \[PDF\]]
 - S. Li, W. Xing, R. M. Kirby, and S. Zhe, “Scalable Gaussian Process Regression Networks,” International Joint Conference on Artificial Intelligence (IJCAI), Jul. 2020, vol. 3, pp. 2456–2462 [https://www.ijcai.org/Proceedings/2020/0340.pdf \[PDF\]]
 - W. Xing, S. Elhabian, R. Kirby, R. T. Whitaker, and S. Zhe, “Infinite ShapeOdds: Nonparametric Bayesian Models for Shape Representations,” Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 34, no. 04, pp. 6462–6469, Apr. 2020 [https://ojs.aaai.org/index.php/AAAI/article/view/6118/5974 \[PDF\]]
 - S. Li, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity Bayesian Optimization via Deep Neural Networks,” Advances in Neural Information Processing Systems (NeurIPS), vol. 33, pp. 8521–8531, 2020 [https://papers.nips.cc/paper/2020/file/60e1deb043af37db5ea4ce9ae8d2c9ea-Paper.pdf \[PDF\]]
 - S. Zhe, W. Xing, and R. M. Kirby, “Scalable High-Order Gaussian Process Regression,” in The 22nd International Conference on Artificial Intelligence and Statistics (AISTAT), Apr. 2019, pp. 2611–2620 [http://proceedings.mlr.press/v89/zhe19a/zhe19a.pdf \[PDF\]]
-- J. Wang\#, W. Xing\#, R. M. Kirby, and M. Zhang, “Data-Driven Model Order Reduction for Diffeomorphic Image Registration,” in Information Processing in Medical Imaging (IPMI), vol. 11492 [https://link.springer.com/content/pdf/10.1007%2F978-3-030-20351-1_54.pdf [PDF\]]
+- J. Wang\#, W. Xing\#, R. M. Kirby, and M. Zhang, “Data-Driven Model Order Reduction for Diffeomorphic Image Registration,” in Information Processing in Medical Imaging (IPMI), vol. 11492 [https://link.springer.com/content/pdf/10.1007%2F978-3-030-20351-1_54.pdf \[PDF\]]
 # A. C. S. Chung, J. C. Gee, P. A. Yushkevich, and S. Bao, Eds. Cham: Springer International Publishing, 2019, pp. 694–705.
 - W. Xing, A. A. Shah, B. Urasinska-Wojcik, and J. W. Gardner, “Prediction of impurities in hydrogen fuel supplies using a thermally-modulated CMOS gas sensor: Experiments and modelling,” in 2017 IEEE SENSORS, Glasgow, Oct. 2017, pp. 1–3, [https://ieeexplore.ieee.org/document/8233907 \[Link\]]
 #
@@ -160,6 +163,9 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 - [https://github.com/wayXing/DC Deep Coregionalization]
 - [https://github.com/wayXing/InfPolyn InfPolyn: Inifinite Polynomial for Interdiffusion Coefficient]
 
+== Tutorials
+- [https://github.com/AMMLE/EasyGP/blob/main/sgp.ipynb Painless Gaussian process implementation in an hour ] [https://github.com/AMMLE/EasyGP/blob/main/sgp_chs.ipynb (一小时搞定高斯过程-中文版)]
+
 
 == Services
 *Journal Reviewer* \n
@@ -174,6 +180,8 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 - Electronics
 - Mathematics
 - Biology
+- Remotesensing
+- Sensors
   
 *Conference Reviewer* \n
 - AISTAT (2021)
