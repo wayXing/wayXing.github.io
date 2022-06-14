@@ -42,7 +42,6 @@ Email: /wxing/ \[@\] buaa \[DOT\] edu.cn \n
  {{<span style="color:Maroon;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:Tomato;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:MediumSeaGreen;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
-- Yuxing Wang's and Yongkai Liu's thesises won the distingush undergraduate thesis awards!
 - Shuo Yin (4th year undergrad)'s work on Bayesian optimization for yield optimization in EDA get accepted by 59th Design automation conference (DAC), the top EDA conference.
 - Our work (me as the first corresponding author) on using Bayesian optimization and reinforce learning to accelerate PTA SPICE solver get accepted by 59th Design automation conference (DAC), the top EDA conference.
 - Undergraduate team win the national university innovation and entrepreneurship competition first prize of North China
@@ -55,26 +54,21 @@ I am looking for motivated students with good programming skills (mainly Python 
 
 
 == Research
-My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and physical simulations and experiments.
-# Some of my current research projects are:
-My main research areas with some current research projects are:
-. *Data-driven Spatial-Temporal Field Modeling*
-. *Machine Learning for Design and Optimization*
+My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and physical simulations. Some of my current research projects are:
+. *Machine learning for design automation*
   .. Bayesian optimization
   .. Efficient yield analysis and optimization
   .. SPICE simulation acceleration
   .. Design space exploration and visualization
-. *Machine learning for scientific computing*
+  
+. *Machine learning for physics*
     .. Surrogate model (for high-dimensional, multi-fidelity, and stochastic systems)
     .. Physics informed machine learning
     .. Bayesian method for dynamical systems
     .. Inverse problems
     .. Digital twins
     .. Reduced order model (ROM) with data-driven methods
-. *Applied Mathematics for Industry*
-  .. Algorithm development for placement and thermal optimization in 3D integrated circuit (with EDA software industry) 
-  .. Signal processing and system identiﬁcation algorithm development for a micrometer laser doppler vibrometer (with scientiﬁc equipment industry)
-  .. Algorithm development for magneto-optic Kerr scope automatic dynamics capturing (with scientiﬁc equipment industry)
+
 # [research.html Find out more].
 
 
@@ -126,11 +120,6 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 - W. Xing, A. A. Shah, and P. B. Nair, “Reduced dimensional Gaussian process emulators of parametrized partial differential equations based on Isomap,” Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 471, no. 2174, p. 20140697, Feb. 2015
 
 *Conference Paper*
-# the foramt of the conference paper requires revision
- - Zheng Wang, Wei Xing, Robert M. Kirby, and Shandian Zhe, "Physics Informed Deep Kernel Learning", The 25th International Conference on Artificial Intelligence and Statistics (AISTATS), 2022 (to appear)
- - Shihong Wang, Xueyin Zhang, and Wei W. Xing\*, “E-LMC: Extended Linear Model of Coregionalization for Predictions of Spatial Fields”, The 2022 International Joint Conference on Neural Networks (IJCNN) 2022 (to appear)
- - Shuo Yin, Xiang Jin, Linxu Shi, Kang Wang and Wei W. Xing\*, “Efficient Bayesian Yield Analysis and Optimization with Active Learning”, The 59th Design Automation Conference (DAC), 2022 (to appear)
- - Zhou Jin, Haojie Pei, Yichao Dong, Xiang Jin, Xiao Wu, Wei W. Xing\* and Dan Niu\*, “Accelerating DC Circuit Simulation with Reinforcement Learning”, The 59th Design Automation Conference (DAC), 2022 (to appear)
 - Z. Wang, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity High-Order Gaussian Processes for Physical Simulation,” in International Conference on Artificial Intelligence and Statistics (AISTAT), Mar. 2021, pp. 847–855 [http://proceedings.mlr.press/v130/wang21c/wang21c.pdf \[PDF\]]
 - S. Li, W. Xing, R. M. Kirby, and S. Zhe, “Scalable Gaussian Process Regression Networks,” International Joint Conference on Artificial Intelligence (IJCAI), Jul. 2020, vol. 3, pp. 2456–2462 [https://www.ijcai.org/Proceedings/2020/0340.pdf \[PDF\]]
 - W. Xing, S. Elhabian, R. Kirby, R. T. Whitaker, and S. Zhe, “Infinite ShapeOdds: Nonparametric Bayesian Models for Shape Representations,” Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 34, no. 04, pp. 6462–6469, Apr. 2020 [https://ojs.aaai.org/index.php/AAAI/article/view/6118/5974 \[PDF\]]
