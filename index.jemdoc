@@ -55,26 +55,41 @@ I am looking for motivated students with good programming skills (mainly Python 
 
 
 == Research
-My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and physical simulations and experiments.
+# <!-- My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and scientific computing (mainly physics simulations). -->
 # Some of my current research projects are:
-My main research areas with some current research projects are:
-. *Data-driven Spatial-Temporal Field Modeling*
-. *Machine Learning for Design and Optimization*
-  .. Bayesian optimization
-  .. Efficient yield analysis and optimization
-  .. SPICE simulation acceleration
-  .. Design space exploration and visualization
-. *Machine learning for scientific computing*
-    .. Surrogate model (for high-dimensional, multi-fidelity, and stochastic systems)
-    .. Physics informed machine learning
-    .. Bayesian method for dynamical systems
-    .. Inverse problems
-    .. Digital twins
-    .. Reduced order model (ROM) with data-driven methods
-. *Applied Mathematics for Industry*
-  .. Algorithm development for placement and thermal optimization in 3D integrated circuit (with EDA software industry) 
-  .. Signal processing and system identiﬁcation algorithm development for a micrometer laser doppler vibrometer (with scientiﬁc equipment industry)
-  .. Algorithm development for magneto-optic Kerr scope automatic dynamics capturing (with scientiﬁc equipment industry)
+My general research interests are in the broad field of artificial intelligence (AI), where I focus on machine learning (ML) and scientific computing (SC) with their applications, e.g., engineering design. 
+My goal is to combine data-driven ML and physics-based SC to create novel hybrid methods that combine both advantages and, most importantly, bring them to solve practical problems more efficiently and effectively. 
+
+# <!-- ML has achieved significant advances across many domains in the past decade. However, ML, in general, requires a large dataset to work and lacks the ability for extrapolation. In contrast, SC has been the dominant technique in computer-aided design in engineering and applied sciences. Based on simple physical laws, SC can extrapolate complex phenomena with no data. Yet, SC models are hard to tune and computationally expensive to execute. Thus, my goal is to combine data-driven ML and physics-based SC to create novel hybrid methods that combine both advantages and, most importantly, bring them to solve practical problems more efficiently and effectively. -->
+I made a video talking about my research ( \[[docs/research_plan_2022-6_v06.pdf Slides]\] \[[https://www.youtube.com/watch?v=xySCUPV5JZI Video]\]) in details.
+It covers the following topics:
+# <!-- My main research areas with some current research projects are: -->
+. *Machine Learning for scientific computing*
+  .. Data-driven Spatial-Temporal Field Modeling
+    ... Conservational kernels
+    ... Meta-learning in multi-task and spatial-temporal problems
+    ... Uncertainty quantification with large spatial fields
+  .. Multi-fidelity fusion
+  .. Machine Learning for Design and Optimization
+    ... Multi-Fidelity Bayesian optimization
+    ... BO with uncertainty, e.g., yield optimization
+    ... Mix-variable (Ordinal + categorical + continuous variables) Bayesian optimization
+#    .. Efficient yield analysis and optimization
+#    .. SPICE simulation acceleration
+#    .. Design space exploration and visualization
+  .. \*Reduced order model (ROM) with data-driven methods
+. *Scientific computing for machine learning*
+#    .. Surrogate model (for high-dimensional, multi-fidelity, and stochastic systems)
+    .. Physics enhanced Bayesian models
+    .. Machine-learning-injected Simulations
+    .. Denoising Diffusion Probabilistic Models
+#    .. Inverse problems
+#    .. Digital twins
+. *Machine Learning + scientific computing for Industry*
+  .. Digital twins
+  .. Algorithm development for SPICE acceleration, thermal optimization, yield analysis and optimization in 3D integrated circuit (with EDA software industry) 
+  .. Signal processing and system identification algorithm development for a micrometer laser doppler vibrometer (with scientific equipment industry)
+  .. Algorithm development for magneto-optic Kerr scope automatic dynamics capturing (with scientific equipment industry)
 # [research.html Find out more].
 
 
