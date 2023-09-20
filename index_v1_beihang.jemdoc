@@ -42,9 +42,7 @@ Email: /wxing/ \[@\] buaa \[DOT\] edu.cn \n
  {{<span style="color:Maroon;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:Tomato;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:MediumSeaGreen;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
-- 2 Paper accepted in 60th Design automation conference (DAC), the top EDA conference. Congratulations to Yanfan Liu (1st year postgraduate).
-- Yuxin Wnag (4th year undergrad)'s work on multi-fidelity fusion accepted in NeurIPS2022
-- Shuo Yin (4th year undergrad)'s work on high-dimensional Bayesian optimization get accepted by ASP-DAC 2022
+- Yuxing Wang's and Yongkai Liu's thesises won the distingush undergraduate thesis awards!
 - Shuo Yin (4th year undergrad)'s work on Bayesian optimization for yield optimization in EDA get accepted by 59th Design automation conference (DAC), the top EDA conference.
 - Our work (me as the first corresponding author) on using Bayesian optimization and reinforce learning to accelerate PTA SPICE solver get accepted by 59th Design automation conference (DAC), the top EDA conference.
 - Undergraduate team win the national university innovation and entrepreneurship competition first prize of North China
@@ -57,29 +55,56 @@ I am looking for motivated students with good programming skills (mainly Python 
 
 
 == Research
-My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and physical simulations. Some of my current research projects are:
-. *Machine learning for design automation*
-  .. Bayesian optimization
-  .. Efficient yield analysis and optimization
-  .. SPICE simulation acceleration
-  .. Design space exploration and visualization
-  
-. *Machine learning for physics*
-    .. Surrogate model (for high-dimensional, multi-fidelity, and stochastic systems)
-    .. Physics informed machine learning
-    .. Bayesian method for dynamical systems
-    .. Inverse problems
-    .. Digital twins
-    .. Reduced order model (ROM) with data-driven methods
+# <!-- My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and scientific computing (mainly physics simulations). -->
+# Some of my current research projects are:
+My general research interests are in the broad field of artificial intelligence (AI), where I focus on machine learning (ML) and scientific computing (SC) with their applications, e.g., engineering design. 
+My goal is to combine data-driven ML and physics-based SC to create novel hybrid methods that combine both advantages and, most importantly, bring them to solve practical problems more efficiently and effectively. 
 
+# <!-- ML has achieved significant advances across many domains in the past decade. However, ML, in general, requires a large dataset to work and lacks the ability for extrapolation. In contrast, SC has been the dominant technique in computer-aided design in engineering and applied sciences. Based on simple physical laws, SC can extrapolate complex phenomena with no data. Yet, SC models are hard to tune and computationally expensive to execute. Thus, my goal is to combine data-driven ML and physics-based SC to create novel hybrid methods that combine both advantages and, most importantly, bring them to solve practical problems more efficiently and effectively. -->
+I made a video talking about my research ( \[[docs/research_plan_2022-6_v06.pdf Slides]\] \[[https://www.youtube.com/watch?v=xySCUPV5JZI Video]\]) in details.
+It covers the following topics:
+# <!-- My main research areas with some current research projects are: -->
+. *Machine Learning for scientific computing*
+  .. Data-driven Spatial-Temporal Field Modeling
+    ... Conservational kernels
+    ... Meta-learning in multi-task and spatial-temporal problems
+    ... Uncertainty quantification with large spatial fields
+  .. Multi-fidelity fusion
+  .. Machine Learning for Design and Optimization
+    ... Multi-Fidelity Bayesian optimization
+    ... BO with uncertainty, e.g., yield optimization
+    ... Mix-variable (Ordinal + categorical + continuous variables) Bayesian optimization
+#    .. Efficient yield analysis and optimization
+#    .. SPICE simulation acceleration
+#    .. Design space exploration and visualization
+  .. \*Reduced order model (ROM) with data-driven methods
+. *Scientific computing for machine learning*
+#    .. Surrogate model (for high-dimensional, multi-fidelity, and stochastic systems)
+    .. Physics enhanced Bayesian models
+    .. Machine-learning-injected Simulations
+    .. Denoising Diffusion Probabilistic Models
+#    .. Inverse problems
+#    .. Digital twins
+. *Machine Learning + scientific computing for Industry*
+  .. Digital twins
+  .. Algorithm development for SPICE acceleration, thermal optimization, yield analysis and optimization in 3D integrated circuit (with EDA software industry) 
+  .. Signal processing and system identification algorithm development for a micrometer laser doppler vibrometer (with scientific equipment industry)
+  .. Algorithm development for magneto-optic Kerr scope automatic dynamics capturing (with scientific equipment industry)
 # [research.html Find out more].
 
 
 
 == Group
-Undergraduate students: Shuo Yin, Shixiang Yan, Guohao Dai \n
-Master students: Xiang Jin, Yinpeng Wu, Shihong Wang, Yichen Meng, Jiazheng Niu, Linchan Luo, Yuwen Deng \n
-Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised with Prof. Akeel A. Shah)  \n
+Undergraduate students:\n
+2021: Shuo Yin, Shixiang Yan, Yuxin Wang, Yuhan Bin, Guohao Dai \n
+
+Master students:\n
+2021: Xiang Jin, Yinpeng Wu, Shihong Wang, Yichen Meng, Jiazheng Niu, Linchan Luo, Yuwen Deng \n
+2022: Yanfan Liu, Mingyue Wang, Zhaoyu Shi, Fei Li \n
+
+Ph.D. students: \n
+2021: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised with Prof. Akeel A. Shah)  \n
+2022: Wei Jiang \n
 # Postdoctoral fellow: Wei Xing (coadvised with Prof. Mike Kirby)
 
 == Teaching
@@ -123,6 +148,11 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 - W. Xing, A. A. Shah, and P. B. Nair, “Reduced dimensional Gaussian process emulators of parametrized partial differential equations based on Isomap,” Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 471, no. 2174, p. 20140697, Feb. 2015
 
 *Conference Paper*
+# the foramt of the conference paper requires revision
+ - Zheng Wang, Wei Xing, Robert M. Kirby, and Shandian Zhe, "Physics Informed Deep Kernel Learning", The 25th International Conference on Artificial Intelligence and Statistics (AISTATS), 2022 (to appear)
+ - Shihong Wang, Xueyin Zhang, and Wei W. Xing\*, “E-LMC: Extended Linear Model of Coregionalization for Predictions of Spatial Fields”, The 2022 International Joint Conference on Neural Networks (IJCNN) 2022 (to appear)
+ - Shuo Yin, Xiang Jin, Linxu Shi, Kang Wang and Wei W. Xing\*, “Efficient Bayesian Yield Analysis and Optimization with Active Learning”, The 59th Design Automation Conference (DAC), 2022 (to appear)
+ - Zhou Jin, Haojie Pei, Yichao Dong, Xiang Jin, Xiao Wu, Wei W. Xing\* and Dan Niu\*, “Accelerating DC Circuit Simulation with Reinforcement Learning”, The 59th Design Automation Conference (DAC), 2022 (to appear)
 - Z. Wang, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity High-Order Gaussian Processes for Physical Simulation,” in International Conference on Artificial Intelligence and Statistics (AISTAT), Mar. 2021, pp. 847–855 [http://proceedings.mlr.press/v130/wang21c/wang21c.pdf \[PDF\]]
 - S. Li, W. Xing, R. M. Kirby, and S. Zhe, “Scalable Gaussian Process Regression Networks,” International Joint Conference on Artificial Intelligence (IJCAI), Jul. 2020, vol. 3, pp. 2456–2462 [https://www.ijcai.org/Proceedings/2020/0340.pdf \[PDF\]]
 - W. Xing, S. Elhabian, R. Kirby, R. T. Whitaker, and S. Zhe, “Infinite ShapeOdds: Nonparametric Bayesian Models for Shape Representations,” Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 34, no. 04, pp. 6462–6469, Apr. 2020 [https://ojs.aaai.org/index.php/AAAI/article/view/6118/5974 \[PDF\]]
@@ -154,7 +184,7 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 - First prize in the innovation projects of 2011 China Educational Robots Competition (2011)
 - Commercial scholarship “Haorizi Scholarship” (first class award)(2011)
 - Commercial scholarship “Metro Scholarship” (first class award)(2011)
-- Academic Innovation Award(2011)
+- Academic Innovation Award(2011) 
 - Academic Scholarship of First Class of Shenzhen University (2009,2008)
 - Excellent Academic Students of Shenzhen University award (2008,2009,2010,2011)
 
@@ -168,7 +198,7 @@ Ph.D. students: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised wi
 
 == Tutorials
 - [https://github.com/AMMLE/EasyGP/blob/main/sgp.ipynb Painless Gaussian process implementation in an hour ] [https://github.com/AMMLE/EasyGP/blob/main/sgp_chs.ipynb (一小时搞定高斯过程-中文版)]
-
+- [https://github.com/AMMLE/IntoML Practical Introduction to Machine Learning] 
 
 == Services
 *Journal Reviewer* \n
