@@ -1,0 +1,225 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+= 
+
+~~~
+{}{img_left}{photos/bio.jpeg}{alt text}{}{240}{}
+*Wei W. Xing* \n
+# [Lecturer (Assistant Professor)],\n
+Lecturer (Assistant Professor) ,\n
+[School of Mathematics and Statistics],\n
+[University of Sheffield],\n
+Office: No.1 Building 225 \n
+# Hicks Building, Hounsfield Rd, Broomhall, Sheffield S3 7RH, UK, \n 
+Email: /w.xing/ \[@\] sheffield \[DOT\] ac.uk \n
+\n
+*More links about me* \n
+[http://shi.buaa.edu.cn/xingwei/zh_CN/index.htm 北航（前职位）学校主页(中文)] \n
+[https://scholar.google.com/citations?hl=en&user=AB5z_AkAAAAJ&view_op=list_works&sortby=pubdate Google Scholar] \n
+[https://www.linkedin.com/in/wei-xing-31853993/ Linkedin] \n
+~~~
+# <span style="color:orange;">文字為橘色</span>
+# ~~~
+# {}{raw}
+# <body style="background-color:powderblue;">
+# <h3 style="color:Maroon;font-size:120%"> <b> News </b> </h3>
+# <p> this is a test </p>
+# <p> this is another test </p>
+# </body>
+# ~~~
+
+# Rainbow text. Generated using: https://charlesstover.github.io/rainbow-text/ 
+#  ~~~
+# {}{raw}
+# <!-- <span style="color:#ff4554;font-size:110%;background-color:#00c3e3;"> <b> Latest Updates: </b> </span> -->
+# <span style="font-size:110%;background-color:black;"> <b>
+# <span style="color:#FF3D3D">L</span><span style="color:#FF973D">a</span><span style="color:#FFF03D">t</span><span style="color:#B4FF3D">e</span><span style="color:#5BFF3D">s</span><span style="color:#3DFF79">t</span> <span style="color:#3DFFD2">U</span><span style="color:#3DD2FF">p</span><span style="color:#3D79FF">d</span><span style="color:#5B3DFF">a</span><span style="color:#B43DFF">t</span><span style="color:#FF3DF0">e</span><span style="color:#FF3D97">s</span> </b> </span>
+# ~~~
+
+
+
+ {{<span style="color:Maroon;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
+# {{<span style="color:Tomato;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
+# {{<span style="color:MediumSeaGreen;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
+- Yuxing Wang's and Yongkai Liu's thesises won the distingush undergraduate thesis awards!
+- Shuo Yin (4th year undergrad)'s work on Bayesian optimization for yield optimization in EDA get accepted by 59th Design automation conference (DAC), the top EDA conference.
+- Our work (me as the first corresponding author) on using Bayesian optimization and reinforce learning to accelerate PTA SPICE solver get accepted by 59th Design automation conference (DAC), the top EDA conference.
+- Undergraduate team win the national university innovation and entrepreneurship competition first prize of North China
+- Thrilled to receive the Excellent Young Scholars of Beihang University (2021)
+
+
+{{<span style="color:Brown;font-size:110%"> <b> Looking for Motivated Students: </b> </span>}} \n
+# {{<span style="color:Dodgerblue;font-size:110%"> <b> Looking for Motivated Students: </b> </span>}} \n
+I am looking for motivated students with good programming skills (mainly Python and MATLAB) and solid backgrounds in probability, linear algebra, numerical methods, and/or optimization. You are welcome to contact me via the email address above. If you are an undergraduate student in Beihang and would like to try some research in machine learning and engineering, feel free to schedule a meeting with me.
+
+
+== Research
+# <!-- My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and scientific computing (mainly physics simulations). -->
+# Some of my current research projects are:
+My general research interests are in the broad field of artificial intelligence (AI), where I focus on machine learning (ML) and scientific computing (SC) with their applications, e.g., engineering design. 
+My goal is to combine data-driven ML and physics-based SC to create novel hybrid methods that combine both advantages and, most importantly, bring them to solve practical problems more efficiently and effectively. 
+
+# <!-- ML has achieved significant advances across many domains in the past decade. However, ML, in general, requires a large dataset to work and lacks the ability for extrapolation. In contrast, SC has been the dominant technique in computer-aided design in engineering and applied sciences. Based on simple physical laws, SC can extrapolate complex phenomena with no data. Yet, SC models are hard to tune and computationally expensive to execute. Thus, my goal is to combine data-driven ML and physics-based SC to create novel hybrid methods that combine both advantages and, most importantly, bring them to solve practical problems more efficiently and effectively. -->
+I made a video talking about my research ( \[[docs/research_plan_2022-6_v06.pdf Slides]\] \[[https://www.youtube.com/watch?v=xySCUPV5JZI Video]\]) in details.
+It covers the following topics:
+# <!-- My main research areas with some current research projects are: -->
+. *Machine Learning for scientific computing*
+  .. Data-driven Spatial-Temporal Field Modeling
+    ... Conservational kernels
+    ... Meta-learning in multi-task and spatial-temporal problems
+    ... Uncertainty quantification with large spatial fields
+  .. Multi-fidelity fusion
+  .. Machine Learning for Design and Optimization
+    ... Multi-Fidelity Bayesian optimization
+    ... BO with uncertainty, e.g., yield optimization
+    ... Mix-variable (Ordinal + categorical + continuous variables) Bayesian optimization
+#    .. Efficient yield analysis and optimization
+#    .. SPICE simulation acceleration
+#    .. Design space exploration and visualization
+  .. \*Reduced order model (ROM) with data-driven methods
+. *Scientific computing for machine learning*
+#    .. Surrogate model (for high-dimensional, multi-fidelity, and stochastic systems)
+    .. Physics enhanced Bayesian models
+    .. Machine-learning-injected Simulations
+    .. Denoising Diffusion Probabilistic Models
+#    .. Inverse problems
+#    .. Digital twins
+. *Machine Learning + scientific computing for Industry*
+  .. Digital twins
+  .. Algorithm development for SPICE acceleration, thermal optimization, yield analysis and optimization in 3D integrated circuit (with EDA software industry) 
+  .. Signal processing and system identification algorithm development for a micrometer laser doppler vibrometer (with scientific equipment industry)
+  .. Algorithm development for magneto-optic Kerr scope automatic dynamics capturing (with scientific equipment industry)
+# [research.html Find out more].
+
+
+
+== Group
+Undergraduate students:\n
+2021: Shuo Yin, Shixiang Yan, Yuxin Wang, Yuhan Bin, Guohao Dai \n
+
+Master students:\n
+2021: Xiang Jin, Yinpeng Wu, Shihong Wang, Yichen Meng, Jiazheng Niu, Linchan Luo, Yuwen Deng \n
+2022: Yanfan Liu, Mingyue Wang, Zhaoyu Shi, Fei Li \n
+
+Ph.D. students: \n
+2021: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised with Prof. Akeel A. Shah)  \n
+2022: Wei Jiang \n
+# Postdoctoral fellow: Wei Xing (coadvised with Prof. Mike Kirby)
+
+== Teaching
+- Numerical method for engineering and machine learning (BH41112101, Fall 2020)
+- Machine learning and its application to engineering (Spring 2022)
+
+
+
+# == About me
+# I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
+# [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+
+# I am currently an assistant professor in the School of Integrated Circuit Science and Engineering at Beihang University, with expertise in engineering design optimization, computational engineering, and machine learning. My work is primarily focused on the modeling and simulation of spatial-temporal fields (temperature fields of batteries and fuel cells, stress fields of mechanical structures, PM2.5 contamination in a city), the development of fast algorithms (surrogate models) for expensive computer simulations in science and engineering.  I am the author of over 25 publications in leading, international peer-reviewed journals. I worked closely with the battery industry (Sharp Laboratories, ACAL Energy Ltd.) and is working with the electronic design automation (EDA) industry (Empyrean, Primarius Technologies Co., Ltd.) to develop fast simulation and optimization algorithm.
+
+== Publications 
+# . E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
+# . E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
+# multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+# . E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
+# . E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+
+
+
+*Journal Paper*
+- Y. Gu, C. Han, Y. Chen, and W. W. Xing, “Mission Replanning for Multiple Agile Earth Observation Satellites Based on Cloud Coverage Forecasting,” IEEE J. Sel. Top. Appl. Earth Observations Remote Sensing, vol. 15, pp. 594–608, 2022, [https://ieeexplore.ieee.org/document/9652077 \[Link\]]
+- W. W. Xing, M. Cheng, K. Cheng, W. Zhang, and P. Wang, “InfPolyn, a Nonparametric Bayesian Characterization for Composition-Dependent Interdiffusion Coefficients,” Materials, vol. 14, no. 13, p. 3635, Jun. 2021 [https://doi.org/10.3390/ma14133635 \[Link\]]
+- H. Wang, C. Li, W. Xing, Y. Ye, and P. Wang, “A machine learning approach to quantify dissolution kinetics of porous media,” Journal of Machine Learning for Modeling and Computing, 2.2, 2021 [https://doi.org/10.1615/JMachLearnModelComput.2021038529 \[Link\]]
+- W. I. Ibrahim, M. R. Mohamed, R. M. T. R. Ismail, P. K. Leung, W. W. Xing, and A. A. Shah, “Hydrokinetic energy harnessing technologies: A review,” Energy Reports, vol. 7, pp. 2021–2042, Nov. 2021 [https://doi.org/10.3390/ma14133635 \[Link\]]
+- W. W. Xing, A. A. Shah, P. Wang, S. Zhe, Q. Fu, and R. M. Kirby, “Residual Gaussian process: A tractable nonparametric Bayesian emulator for multi-fidelity simulations,” Applied Mathematical Modelling, vol. 97, pp. 36–56, Sep. 2021
+- W. W. Xing, R. M. Kirby, and S. Zhe, “Deep coregionalization for the emulation of simulation-based spatial-temporal fields,” Journal of Computational Physics, vol. 428, p. 109984, Mar. 2021 
+- Kerry E. Kelly\#, Wei W. Xing\#, Tofigh Sayahi, Logan Mitchell, Tom Becnel, Pierre-Emmanuel Gaillardon, Miriah Meyer, and Ross T. Whitaker., “Community-Based Measurements Reveal Unseen Differences during Air Pollution Episodes,” Environmental Science & Technology, vol. 55, no. 1, pp. 120–128, Jan. 2021
+- W. W. Xing, F. Yu, P. K. Leung, X. Li, P. Wang, and A. A. Shah, “A new multi-task learning framework for fuel cell model outputs in high-dimensional spaces,” Journal of Power Sources, vol. 482, p. 228930, Jan. 2021
+- W. Xing, S. Y. Elhabian, V. Keshavarzzadeh, and R. M. Kirby, “Shared-Gaussian Process: Learning Interpretable Shared Hidden Structure Across Data Spaces for Design Space Analysis and Exploration,” Journal of Mechanical Design, vol. 142, no. 8, Aug. 2020
+- W. Xing, M. Razi, R. M. Kirby, K. Sun, and A. A. Shah, “Greedy nonlinear autoregression for multifidelity computer models at different scales,” Energy and AI, vol. 1, p. 100012, Aug. 2020
+- C. Mullen, T. Collins,  W. Xing, R. Whitaker, T. Sayahi, T. Becnel, P. Goffin, P. Gaillardon, M. Meyer, K. Kelly, “Patterns of distributive environmental inequity under different PM2.5 air pollution scenarios for Salt Lake County public schools,” Environmental Research, vol. 186, p. 109543, Jul. 2020
+- D.V. Mallia, A.K. Kochanski, K.E. Kelly, R. Whitaker, W. Xing, L.E. Mitchell, A. Jacques, A. Farguell, J. Mandel, P.E. Gaillardon, and , T. Becnel. “Evaluating Wildfire Smoke Transport Within a Coupled Fire-Atmosphere Model Using a High-Density Observation Network for an Episodic Smoke Event Along Utah’s Wasatch Front,” Journal of Geophysical Research: Atmospheres, vol. 125, no. 20, p. e2020JD032712, 2020
+- C. Gadd, W. Xing, M. M. Nezhad, and A. A. Shah, “A Surrogate Modelling Approach Based on Nonlinear Dimension Reduction for Uncertainty Quantification in Groundwater Flow Models,” Transport in Porous Media, vol. 126, no. 1, pp. 39–77, Jan. 2019
+- V. Triantafyllidiis, W. W. Xing, P. K. Leung, A. Rodchanarowan, and A. A. Shah, “Probabilistic sensitivity analysis for multivariate model outputs with applications to Li-ion batteries,” Journal of Physics: Conference Series, vol. 1039, p. 012020, Jun. 2018
+- A. A. Shah, W. W. Xing, and V. Triantafyllidis, “Reduced-order modelling of parameter-dependent, linear and nonlinear dynamic partial differential equation models,” Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 473, no. 2200, p. 20160809, Apr. 2017
+- W. W. Xing, V. Triantafyllidis, A. A. Shah, P. B. Nair, and N. Zabaras, “Manifold learning for the emulation of spatial fields from computational models,” Journal of Computational Physics, vol. 326, pp. 666–690, Dec. 2016
+- W. Xing, A. A. Shah, and P. B. Nair, “Reduced dimensional Gaussian process emulators of parametrized partial differential equations based on Isomap,” Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 471, no. 2174, p. 20140697, Feb. 2015
+
+*Conference Paper*
+# the foramt of the conference paper requires revision
+ - Zheng Wang, Wei Xing, Robert M. Kirby, and Shandian Zhe, "Physics Informed Deep Kernel Learning", The 25th International Conference on Artificial Intelligence and Statistics (AISTATS), 2022 (to appear)
+ - Shihong Wang, Xueyin Zhang, and Wei W. Xing\*, “E-LMC: Extended Linear Model of Coregionalization for Predictions of Spatial Fields”, The 2022 International Joint Conference on Neural Networks (IJCNN) 2022 (to appear)
+ - Shuo Yin, Xiang Jin, Linxu Shi, Kang Wang and Wei W. Xing\*, “Efficient Bayesian Yield Analysis and Optimization with Active Learning”, The 59th Design Automation Conference (DAC), 2022 (to appear)
+ - Zhou Jin, Haojie Pei, Yichao Dong, Xiang Jin, Xiao Wu, Wei W. Xing\* and Dan Niu\*, “Accelerating DC Circuit Simulation with Reinforcement Learning”, The 59th Design Automation Conference (DAC), 2022 (to appear)
+- Z. Wang, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity High-Order Gaussian Processes for Physical Simulation,” in International Conference on Artificial Intelligence and Statistics (AISTAT), Mar. 2021, pp. 847–855 [http://proceedings.mlr.press/v130/wang21c/wang21c.pdf \[PDF\]]
+- S. Li, W. Xing, R. M. Kirby, and S. Zhe, “Scalable Gaussian Process Regression Networks,” International Joint Conference on Artificial Intelligence (IJCAI), Jul. 2020, vol. 3, pp. 2456–2462 [https://www.ijcai.org/Proceedings/2020/0340.pdf \[PDF\]]
+- W. Xing, S. Elhabian, R. Kirby, R. T. Whitaker, and S. Zhe, “Infinite ShapeOdds: Nonparametric Bayesian Models for Shape Representations,” Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 34, no. 04, pp. 6462–6469, Apr. 2020 [https://ojs.aaai.org/index.php/AAAI/article/view/6118/5974 \[PDF\]]
+- S. Li, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity Bayesian Optimization via Deep Neural Networks,” Advances in Neural Information Processing Systems (NeurIPS), vol. 33, pp. 8521–8531, 2020 [https://papers.nips.cc/paper/2020/file/60e1deb043af37db5ea4ce9ae8d2c9ea-Paper.pdf \[PDF\]]
+- S. Zhe, W. Xing, and R. M. Kirby, “Scalable High-Order Gaussian Process Regression,” in The 22nd International Conference on Artificial Intelligence and Statistics (AISTAT), Apr. 2019, pp. 2611–2620 [http://proceedings.mlr.press/v89/zhe19a/zhe19a.pdf \[PDF\]]
+- J. Wang\#, W. Xing\#, R. M. Kirby, and M. Zhang, “Data-Driven Model Order Reduction for Diffeomorphic Image Registration,” in Information Processing in Medical Imaging (IPMI), vol. 11492 [https://link.springer.com/content/pdf/10.1007%2F978-3-030-20351-1_54.pdf \[PDF\]]
+# A. C. S. Chung, J. C. Gee, P. A. Yushkevich, and S. Bao, Eds. Cham: Springer International Publishing, 2019, pp. 694–705.
+- W. Xing, A. A. Shah, B. Urasinska-Wojcik, and J. W. Gardner, “Prediction of impurities in hydrogen fuel supplies using a thermally-modulated CMOS gas sensor: Experiments and modelling,” in 2017 IEEE SENSORS, Glasgow, Oct. 2017, pp. 1–3, [https://ieeexplore.ieee.org/document/8233907 \[Link\]]
+#
+- Moore J., Xing W., Wiese J., Dailey M. Becnel T., Goffin P., J., Gaillardon, Kelly K, Butterfield T., Engaging Pre-College Students in Hypothesis Generation using a Citizen Scientist Network of Air Quality Sensors. ASEE Annual Conference and exposition
+- K. Kelly, W. Xing, P. Goffin, T. Sayahi, T. Becnel, P-E. Gaillardon, A.E. Butterfield, M. Meyer, R. Whitaker, Understanding how pollution episodes affect community-level air quality with a distributed sensor network, AIChE Annual Meeting, Orlando, FL, November 10-15, 2019.
+- J. Moore, W. Xing, M. Dailey, K. Le, T. Becnel, P. Goffin, M. Meyer, P-E Gaillardon, R.Whitaker, J. Wiese, A.E. Butterfield, K.E. Kelly, Engaging middle and high school students in hypothesis generation using a citizen-scientist network of air quality sensors, AIChE Annual Meeting, Orlando, FL, November 10-15, 2019.
+- T. Sayahi, P.-E. Gaillardon, R. Whitaker, M. Meyer, T. Butterfield, P. Goffin, T. Becnel, A. Biglari, D. Kaufman, T. Sayahi, W. Xing, K. Kelly, Platform: Long-term evaluation of the plantower PMS sensor. 10th International Aerosol Conference, September 2nd-7th, St. Louis, Mo, 2018.
+- K.E. Kelly, P.-E. Gaillardon, R. Whitaker, M. Meyer, T. Butterfield, P. Goffin, T. Becnel, A. Biglari, D. Kaufman, T. Sayahi, W. Xing, Poster: A layered framework for integrating low-cost sensor data and for engaging citizens to understand PM2.5 exposure. 10th International Aerosol Conference, September 2nd-7th, St. Louis, Mo, 2018.
+- Triantafyllidis, V., Xing, W., Shah, A. A., & Nair, P. B. (2016). Neural network emulation of spatio-temporal data using linear and nonlinear dimensionality reduction. In Advanced Computer and Communication Engineering Technology (pp. 1015-1029). Springer, Cham.
+
+
+== Award
+- Excellent Young Scholars of Beihang University (2021)
+- National university innovation and entrepreneurship competition Third prize (2021)
+- National university innovation and entrepreneurship competition first prize of North China (2021)
+- EDA elite championship competition first prize (2020)
+- EDA elite championship competition second prize (2020)
+- Best poster award in IPMI2019 (2019)
+- PhD scholarship University of Warwick (2012)
+- Outstanding graduate award of Shenzhen University (2012)
+- Scholarship of academician Yan Shuzi (Top academic award in the University)	(2012)
+- Top award, first prize, third prize and special prize in the 2011 China Electronic Innovation Design Competition (2011)
+- First prize in the innovation projects of 2011 China Educational Robots Competition (2011)
+- Commercial scholarship “Haorizi Scholarship” (first class award)(2011)
+- Commercial scholarship “Metro Scholarship” (first class award)(2011)
+- Academic Innovation Award(2011) 
+- Academic Scholarship of First Class of Shenzhen University (2009,2008)
+- Excellent Academic Students of Shenzhen University award (2008,2009,2010,2011)
+
+== Codes
+- [https://github.com/wayXing/RichardPoFlow FD solver for Richard equation with porou media random field]
+- [https://github.com/wayXing/HOGP HOGP: High Order Gaussian Process]
+- [https://github.com/wayXing/GreedyNAR GreedyNAR: Greedy Nonlinear Autoregression]
+- [https://github.com/wayXing/SharedGP SharedGP: Shared Gaussian Process Learning Interpretable Shared Hidden Structure Across Data Spaces for Design Space Analysis ]
+- [https://github.com/wayXing/DC Deep Coregionalization]
+- [https://github.com/wayXing/InfPolyn InfPolyn: Inifinite Polynomial for Interdiffusion Coefficient]
+
+== Tutorials
+- [https://github.com/AMMLE/EasyGP/blob/main/sgp.ipynb Painless Gaussian process implementation in an hour ] [https://github.com/AMMLE/EasyGP/blob/main/sgp_chs.ipynb (一小时搞定高斯过程-中文版)]
+- [https://github.com/AMMLE/IntoML Practical Introduction to Machine Learning] 
+
+== Services
+*Journal Reviewer* \n
+- Computer Method in Applied Mechanics and Engineering
+- Journal of Computational Science
+- Journal of Machine learning for modeling and computing
+- Journal of Computing and Information Science in Engineering
+- Computer and Graphics
+- Computer Physics Communication
+- Transport in Porous Media
+- Fluid
+- Electronics
+- Mathematics
+- Biology
+- Remotesensing
+- Sensors
+  
+*Conference Reviewer* \n
+- AISTAT (2021)
+- ICMLIP (2020) program committee 
+
+
+
+# [publications.html Full list of publications].
+\n
+[docs/CV.pdf A Brief CV].
