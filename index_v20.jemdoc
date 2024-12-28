@@ -2,7 +2,7 @@
 = 
 
 ~~~
-{}{img_left}{photos/wxing_v2.jpeg}{alt text}{}{200}{}
+{}{img_left}{photos/bio.jpeg}{alt text}{}{240}{}
 *Wei W. Xing* \n
 # [Lecturer (Assistant Professor)],\n
 Lecturer (Assistant Professor) ,\n
@@ -38,86 +38,56 @@ Email: /w.xing/ \[@\] sheffield \[DOT\] ac.uk \n
  {{<span style="color:Maroon;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:Tomato;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
 # {{<span style="color:MediumSeaGreen;font-size:110%"> <b> Latest Updates: </b> </span>}} \n
-- Best Paper Award ISEDA 2024!
-- Five papers get accepted by DAC 2024! 
+- Four papers accepted by ICCAD 2024! 
+- Five papers accepted by DAC 2024! 
 - Two papers on physics law discovery using AI get accepted by AISTAT 2024!
 - Our work on multi-fidelity fusion was funded by BBSRC (UK). We will explore the use of multi-fidelity fusion in bio Biophysical modeling, which can help disentangle the contributions of different biophysical processes, such as cell-cell and cell-matrix adhesion and cortical contractility, to epithelial tissue structure. 
 - Our work on multi-fidelity fusion was funded by Sheffield grant, AIRE. We will explore the use of multi-fidelity fusion in the automatic driving system and develop a public library for multi-fidelity fusion.
 - Our work on urban digital twin model gets Beijing Science and Technology Progress Award (北京市科学技术进步奖二等奖)
-- Best Paper Nomination ICCAD 2023: the first transfer learning method for yield estimation and optimization for SRAM circuits
-# - Yuxing Wang's and Yongkai Liu's thesises won the distingush undergraduate thesis awards!
-# - Shuo Yin (4th year undergrad)'s work on Bayesian optimization for yield optimization in EDA get accepted by 59th Design automation conference (DAC), the top EDA conference.
-# - Our work (me as the first corresponding author) on using Bayesian optimization and reinforce learning to accelerate PTA SPICE solver get accepted by 59th Design automation conference (DAC), the top EDA conference.
-# - Undergraduate team win the national university innovation and entrepreneurship competition first prize of North China
-# - Thrilled to receive the Excellent Young Scholars of Beihang University (2021)
+- Our ICCAD paper of the first transfer learning method for yield estimation and optimization get best paper nomination by ICCAD 2023!
+- Yuxing Wang's and Yongkai Liu's thesises won the distingush undergraduate thesis awards!
+- Shuo Yin (4th year undergrad)'s work on Bayesian optimization for yield optimization in EDA get accepted by 59th Design automation conference (DAC), the top EDA conference.
+- Our work (me as the first corresponding author) on using Bayesian optimization and reinforce learning to accelerate PTA SPICE solver get accepted by 59th Design automation conference (DAC), the top EDA conference.
+- Undergraduate team win the national university innovation and entrepreneurship competition first prize of North China
+- Thrilled to receive the Excellent Young Scholars of Beihang University (2021)
 
 
 {{<span style="color:Brown;font-size:110%"> <b> Looking for Motivated Students: </b> </span>}} \n
 # {{<span style="color:Dodgerblue;font-size:110%"> <b> Looking for Motivated Students: </b> </span>}} \n
 # I am looking for motivated students with good programming skills (mainly Python and MATLAB) and solid backgrounds in probability, linear algebra, numerical methods, and/or optimization. You are welcome to contact me via the email address above. If you are an undergraduate student in Beihang and would like to try some research in machine learning and engineering, feel free to schedule a meeting with me.
 
-I am always looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electrical engineering, mathematics, statistics, or related areas, working on research fields of 1) general AI methods for engineering problems, 2) AI4EDA, and 3) AI4Science. If you are interested, please drop me an email with your CV.
+I am always looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electrical engineering, mathematics, statistics, or related areas, working on research fields of 
+1) general AI methods for engineering problems, 2) AI4EDA, and 3) AI4Science. If you are interested, please drop me an email with your CV.
 
 Opening positions available: Ph.D., Post Doc, Engineer, Interns. 
 
 
+== About Me and My Group
+I am fascinated by the challenge of making artificial intelligence work for real-world engineering problems. My research sits at the intersection of AI, computational engineering, and scientific computing, where I develop novel machine learning methods that respect physical laws and engineering constraints. Through this work, we've created new ways to accelerate circuit design, improve manufacturing processes, and advance scientific discovery. What makes our approach unique is our focus on combining multiple levels of data fidelity and physics knowledge with modern AI techniques. This has led to breakthroughs in areas ranging from electronic design automation to molecular dynamics simulations. At the University of Sheffield, I lead the Intelligent Computational Engineering Lab (IceLab), where we work with industry partners and tackle fundamental research challenges in AI4Science and AI4Engineering. Our goal is to push the boundaries of what's possible in computational engineering while making these advanced techniques accessible through open-source tools and practical applications.
+
+
 == Research
+My general research interests are in the broad field of artificial intelligence (AI) and statistics. 
+Currently, I am into the intersection of AI and computational engineering, targeting at the development of novel AI methods for modern engineering problems, particularly in the integrated circuit (IC) design and smart manufacturing. 
+My current research focuses on the following topics:
 
-# My general research interests are in the broad field of artificial intelligence (AI) and statistics. 
-# Currently, I am into the intersection of AI and computational engineering, targeting at the development of novel AI methods for modern engineering problems, particularly in the integrated circuit (IC) design and smart manufacturing. 
-# My current research focuses on the following topics:
+### Research Topics
+*Foundation Machine Learning Techniques for Engineering In General*
+. Multi-Fidelity Fusion
+. Physics-Enhanced Machine Learning
+. Spatial-Temporal Field Modeling for Digital Twins
+. Design Space Exploration and Visualization
 
-# ### Research Topics
-# *Foundation Machine Learning Techniques for Engineering In General*
-# . Multi-Fidelity Fusion
-# . Physics-Enhanced Machine Learning
-# . Spatial-Temporal Field Modeling for Digital Twins
-# . Design Space Exploration and Visualization
+*AI4EDA (AI for Electronic Design Automation)*
+. Design Space Exploration for analog and mixed-signal circuits
+. Modern Statistical Methods for Yield Analysis and Optimization
+. Uncertainty Propagation and Control in EDA and TCAD (Technology Computer-Aided Design)
+. AI-driven SPICE Simulation Acceleration
+. AI for Statistical Static Timing Analysis (SSTA)
 
-# *AI4EDA (AI for Electronic Design Automation)*
-# . Design Space Exploration for analog and mixed-signal circuits
-# . Modern Statistical Methods for Yield Analysis and Optimization
-# . Uncertainty Propagation and Control in EDA and TCAD (Technology Computer-Aided Design)
-# . AI-driven SPICE Simulation Acceleration
-# . AI for Statistical Static Timing Analysis (SSTA)
-
-# *AI4Science*
-# . AI for Smart Scientific Equipments
-# . AI for Density Functional Theory (DFT) and Molecular Dynamics (MD) Simulations
-
-We develop artificial intelligence solutions to transform computational engineering by addressing three critical challenges: making optimal decisions in complex design spaces, creating accurate models of physical systems, and performing efficient simulations. Our innovative AI approaches enhance design optimization, enable reliable surrogate modeling, and accelerate simulations while maintaining engineering reliability. Through this research in electronic design automation and energy systems, we're working toward a future where AI acts as an intelligent partner in engineering design, enhancing rather than replacing traditional methods.
-
-*Our Research: Intelligent Decision Making and Efficient Simulations*
-
-Modern engineering relies heavily on computational methods to design and optimize complex systems. From semiconductors to energy systems, engineers use mathematical modeling, numerical simulation, and optimization to develop new technologies. However, these traditional approaches face significant challenges. For instance, designing a modern integrated circuit involves optimizing thousands of parameters while ensuring reliability across different operating conditions - a task that becomes computationally intractable with conventional methods. Our work includes:
-    
-*AI Copilot for Design and Optimization*
-
-Design optimization is the cornerstone of computational engineering, where engineers must find optimal solutions in complex, high-dimensional spaces. Traditional optimization methods often require numerous expensive evaluations and struggle with competing objectives. Our research develops AI methods to accelerate this process and enhance human decision-making.
-
-We pioneer multi-fidelity Bayesian optimization approaches that intelligently combine quick approximate evaluations with selective high-fidelity simulations. For instance, in circuit design, our methods reduced optimization time from weeks to hours while maintaining reliability. Our yield optimization techniques have significantly improved manufacturing outcomes by efficiently identifying and mitigating failure modes. Through knowledge transfer across designs, we leverage past experiences to accelerate new optimization tasks, demonstrating particular success in transistor sizing and thermal design problems.
-
-*Reliable Surrogate Models and Digital Twins*
-
-Complex engineering systems require accurate models for design and analysis, but high-fidelity simulations are often too computationally expensive for practical optimization. We address this challenge by developing reliable surrogate models that maintain physical consistency while dramatically reducing computational cost.
-
-Our research advances physics-informed neural networks and novel multi-fidelity fusion techniques (ContinuAR and GAR) that combine data from different fidelity levels to create accurate, fast-evaluating models. We've developed scalable Gaussian processes that can handle large-scale engineering data while providing crucial uncertainty quantification. These methods have enabled real-time performance prediction for complex systems while maintaining accuracy within 1% of high-fidelity simulations.
-
-*AI for Efficient and Accurate Simulations*
-
-Numerical simulation is essential for predicting system behavior, but traditional methods often require intensive computational resources. We develop AI-enhanced simulation methods that maintain accuracy while significantly reducing computational cost.
-
-Our physics-informed neural networks have achieved up to 50x acceleration in SPICE circuit simulation and thermal analysis. Through smart model calibration techniques, we ensure these accelerated simulations remain reliable for engineering applications. Our methods adapt simulation strategies based on system behavior, enabling real-time analysis that was previously impossible.
-
-*Impact and Applications*
-
-Our methods have demonstrated significant impact in electronic design automation (EDA) and energy systems. In semiconductor design, our optimization and yield enhancement techniques are helping partners improve manufacturing reliability and reduce design time. For energy systems, our surrogate modeling and simulation acceleration methods have enabled faster battery and fuel cell design optimization. We're currently working with leading companies in both sectors to deploy these technologies in real-world applications.
-
-
-
-
-
-
+*AI4Science*
+. AI for Smart Scientific Equipments
+. AI for Density Functional Theory (DFT) and Molecular Dynamics (MD) Simulations
 
 
 # <!-- # My general research interests are artificial intelligence (AI), where I mainly focus on the sub-fields of data-driven engineering design/optimization and scientific computing (mainly physics simulations).
@@ -156,50 +126,50 @@ Our methods have demonstrated significant impact in electronic design automation
 #  .. Algorithm development for magneto-optic Kerr scope automatic dynamics capturing (with scientific equipment industry)
 # [research.html Find out more]. -->
 
-# == Selected Publications
-# *AI for Design and Manufacture (integrated circuit)*
+== Selected Publications
+*AI for Design and Manufacture (integrated circuit)*
 
-# [1]	Yanfang Liu, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei Xing*, “OPT: Optimal Proposal Transfer for Efﬁcient Yield Optimization for Analog and SRAM Circuits” ICCAD2023
+[1]	Yanfang Liu, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei Xing*, “OPT: Optimal Proposal Transfer for Efﬁcient Yield Optimization for Analog and SRAM Circuits” ICCAD2023
 
-# [2]	Wei W. Xing, Rongqi Lu, Zheng Xing, zhelong wang, ning xu, Weisheng Zhao and yuanqing Chen, “TOTAL: Multi-Corners Timing Optimization Based on Transfer and Active Learning”, DAC2023 
+[2]	Wei W. Xing, Rongqi Lu, Zheng Xing, zhelong wang, ning xu, Weisheng Zhao and yuanqing Chen, “TOTAL: Multi-Corners Timing Optimization Based on Transfer and Active Learning”, DAC2023 
 
-# [3]	Yanfang Liu, Guohao Dai and Wei W. Xing*, Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold, DAC2023
+[3]	Yanfang Liu, Guohao Dai and Wei W. Xing*, Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold, DAC2023
 
-# [4]	Shuo Yin, Xiang Jin, Linxu Shi, Kang Wang and Wei W. Xing*, “Efficient Bayesian Yield Analysis and Optimization with Active Learning”, The 59th Design Automation Conference (DAC), 2022
+[4]	Shuo Yin, Xiang Jin, Linxu Shi, Kang Wang and Wei W. Xing*, “Efficient Bayesian Yield Analysis and Optimization with Active Learning”, The 59th Design Automation Conference (DAC), 2022
 
-# [5]	Zhou Jin, Haojie Pei, Yichao Dong, Xiang Jin, Xiao Wu, Wei W. Xing\* and Dan Niu\*, “Accelerating DC Circuit Simulation with Reinforcement Learning”, The 59th Design Automation Conference (DAC), 2022
+[5]	Zhou Jin, Haojie Pei, Yichao Dong, Xiang Jin, Xiao Wu, Wei W. Xing\* and Dan Niu\*, “Accelerating DC Circuit Simulation with Reinforcement Learning”, The 59th Design Automation Conference (DAC), 2022
 
-# *AI Foundation techniques for Engineering and manufacturing*
+*AI Foundation techniques for Engineering and manufacturing*
 
-# [0]	W. W. Xing, Y. Wang, and Z. Xing, “ContinuAR: Continuous Autoregression For Infinite-Fidelity Fusion,” NeurIPS2023. 
+[0]	W. W. Xing, Y. Wang, and Z. Xing, “ContinuAR: Continuous Autoregression For Infinite-Fidelity Fusion,” NeurIPS2023. 
 
-# [1]	Y. Wang, Z. Xing, and W. W. Xing*, “GAR: Generalized Autoregression for Multi-Fidelity Fusion,” NeurIPS2022. 
+[1]	Y. Wang, Z. Xing, and W. W. Xing*, “GAR: Generalized Autoregression for Multi-Fidelity Fusion,” NeurIPS2022. 
 
-# [2]	Zheng Wang, Wei Xing, Robert M. Kirby, and Shandian Zhe, “Physics Informed Deep Kernel Learning”, The 25th International Conference on Artificial Intelligence and Statistics (AISTATS), 2022 
+[2]	Zheng Wang, Wei Xing, Robert M. Kirby, and Shandian Zhe, “Physics Informed Deep Kernel Learning”, The 25th International Conference on Artificial Intelligence and Statistics (AISTATS), 2022 
 
-# [3]	S. Li, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity Bayesian Optimization via Deep Neural Networks,” Advances in Neural Information Processing Systems (NeurIPS), vol. 33, pp. 8521–8531, 2020, Accessed: Apr. 21, 2021. 	                    
+[3]	S. Li, W. Xing, R. Kirby, and S. Zhe, “Multi-Fidelity Bayesian Optimization via Deep Neural Networks,” Advances in Neural Information Processing Systems (NeurIPS), vol. 33, pp. 8521–8531, 2020, Accessed: Apr. 21, 2021. 	                    
 
-# [4]	S. Zhe, W. Xing, and R. M. Kirby, “Scalable High-Order Gaussian Process Regression,” in The 22nd International Conference on Artificial Intelligence and Statistics, (AISTAT), Apr. 2019, pp. 2611–2620, Accessed: Jan. 14, 2021.
+[4]	S. Zhe, W. Xing, and R. M. Kirby, “Scalable High-Order Gaussian Process Regression,” in The 22nd International Conference on Artificial Intelligence and Statistics, (AISTAT), Apr. 2019, pp. 2611–2620, Accessed: Jan. 14, 2021.
 
-# [5]	W. Xing, S. Elhabian, R. Kirby, R. T. Whitaker, and S. Zhe, “Infinite ShapeOdds: Nonparametric Bayesian Models for Shape Representations,” Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 04, pp. 6462–6469, Apr. 2020
+[5]	W. Xing, S. Elhabian, R. Kirby, R. T. Whitaker, and S. Zhe, “Infinite ShapeOdds: Nonparametric Bayesian Models for Shape Representations,” Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 04, pp. 6462–6469, Apr. 2020
 
-# [6]	J. Wang\#, W. Xing\#, R. M. Kirby, and M. Zhang, “Data-Driven Model Order Reduction for Diffeomorphic Image Registration,” in Information Processing in Medical Imaging (IPMI), vol. 11492, A. C. S. Chung, J. C. Gee, P. A. Yushkevich, and S. Bao, Eds. Cham: Springer International Publishing, 2019, pp. 694–705.
+[6]	J. Wang\#, W. Xing\#, R. M. Kirby, and M. Zhang, “Data-Driven Model Order Reduction for Diffeomorphic Image Registration,” in Information Processing in Medical Imaging (IPMI), vol. 11492, A. C. S. Chung, J. C. Gee, P. A. Yushkevich, and S. Bao, Eds. Cham: Springer International Publishing, 2019, pp. 694–705.
 
-# [7]	W. W. Xing, A. A. Shah, P. Wang, S. Zhe, Q. Fu, and R. M. Kirby, “Residual Gaussian process: A tractable nonparametric Bayesian emulator for multi-fidelity simulations,” Applied Mathematical Modelling, vol. 97, pp. 36–56s, Sep. 2021 (JCR Q1)
+[7]	W. W. Xing, A. A. Shah, P. Wang, S. Zhe, Q. Fu, and R. M. Kirby, “Residual Gaussian process: A tractable nonparametric Bayesian emulator for multi-fidelity simulations,” Applied Mathematical Modelling, vol. 97, pp. 36–56s, Sep. 2021 (JCR Q1)
 
-# *Digital Twins*
+*Digital Twins*
 
-# [1]	Kerry E. Kelly\#, Wei W. Xing\#, Tofigh Sayahi, Logan Mitchell, Tom Becnel, Pierre-Emmanuel Gaillardon, Miriah Meyer, and Ross T. Whitaker., “Community-Based Measurements Reveal Unseen Differences during Air Pollution Episodes,” Environmental Science & Technology, vol. 55, no. 1, pp. 120–128, Jan. 2021 (JCR Q1)
+[1]	Kerry E. Kelly\#, Wei W. Xing\#, Tofigh Sayahi, Logan Mitchell, Tom Becnel, Pierre-Emmanuel Gaillardon, Miriah Meyer, and Ross T. Whitaker., “Community-Based Measurements Reveal Unseen Differences during Air Pollution Episodes,” Environmental Science & Technology, vol. 55, no. 1, pp. 120–128, Jan. 2021 (JCR Q1)
 
-# [2]	C. Mullen, T. Collins,  W. Xing, R. Whitaker, T. Sayahi, T. Becnel, P. Goffin, P. Gaillardon, M. Meyer, K. Kelly, “Patterns of distributive environmental inequity under different PM2.5 air pollution scenarios for Salt Lake County public schools,” Environmental Research, vol. 186, p. 109543, Jul. 2020, (JCR Q1)
+[2]	C. Mullen, T. Collins,  W. Xing, R. Whitaker, T. Sayahi, T. Becnel, P. Goffin, P. Gaillardon, M. Meyer, K. Kelly, “Patterns of distributive environmental inequity under different PM2.5 air pollution scenarios for Salt Lake County public schools,” Environmental Research, vol. 186, p. 109543, Jul. 2020, (JCR Q1)
 
-# [3]	W. W. Xing, F. Yu, P. K. Leung, X. Li, P. Wang, and A. A. Shah, “A new multi-task learning framework for fuel cell model outputs in high-dimensional spaces,” Journal of Power Sources, vol. 482, p. 228930, Jan. 2021, (JCR Q1)
+[3]	W. W. Xing, F. Yu, P. K. Leung, X. Li, P. Wang, and A. A. Shah, “A new multi-task learning framework for fuel cell model outputs in high-dimensional spaces,” Journal of Power Sources, vol. 482, p. 228930, Jan. 2021, (JCR Q1)
 
-# [4]	W. W. Xing, R. M. Kirby, and S. Zhe, “Deep coregionalization for the emulation of simulation-based spatial-temporal fields,” Journal of Computational Physics, vol. 428, p. 109984, Mar. 2021 (JCR Q1)
+[4]	W. W. Xing, R. M. Kirby, and S. Zhe, “Deep coregionalization for the emulation of simulation-based spatial-temporal fields,” Journal of Computational Physics, vol. 428, p. 109984, Mar. 2021 (JCR Q1)
 
-# [5]	W. W. Xing, V. Triantafyllidis, A. A. Shah, P. B. Nair, and N. Zabaras, “Manifold learning for the emulation of spatial fields from computational models,” Journal of Computational Physics, vol. 326, pp. 666, Dec. 2016 (JCR Q1)
+[5]	W. W. Xing, V. Triantafyllidis, A. A. Shah, P. B. Nair, and N. Zabaras, “Manifold learning for the emulation of spatial fields from computational models,” Journal of Computational Physics, vol. 326, pp. 666, Dec. 2016 (JCR Q1)
 
-# [6]	Y. Gu, C. Han, Y. Chen, and W. Xing*, “Mission Re-planning For Multiple Agile Earth Observation Satellites based on Cloud Coverage Forecasting,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, pp. 1–1, 2021 (JCR Q1)
+[6]	Y. Gu, C. Han, Y. Chen, and W. Xing*, “Mission Re-planning For Multiple Agile Earth Observation Satellites based on Cloud Coverage Forecasting,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, pp. 1–1, 2021 (JCR Q1)
 
 
 
@@ -208,26 +178,20 @@ Undergraduate students:\n
 2021: Shuo Yin, Shixiang Yan, Yuxin Wang, Yuhan Bin, Guohao Dai \n
 2022: Yuhua Zhang
 2023: Weijian, Zhuohua, Longze
-2024: Weijian, Zhuohua
 
 Master students:\n
 2021: Xiang Jin, Yinpeng Wu, Shihong Wang, Yichen Meng, Jiazheng Niu, Linchan Luo, Yuwen Deng \n
 2022: Yanfan Liu, Mingyue Wang, Zhaoyu Shi, Fei Li \n
 2023: Yuan Yao, 
-2024: Yuan Yao, Yuxua Liu
 
 Ph.D. students: \n
 2021: Yi Gu (coadvised with Prof. Chao Han), Shuyang Dai (coadvised with Prof. Akeel A. Shah)  \n
 2022: Wei Jiang \n
-2024: Jin Kou, Haiyan Qin, Yanbo Wei, Junzhuo Zhou \n
 # Postdoctoral fellow: Wei Xing (coadvised with Prof. Mike Kirby)
 
-Postdoctoral fellows: \n
-2024: Min Tao \n
-
 == Teaching
-- Mathematical Investigation Skills (MAS1163, 2023,2024)
-- Machine learning (MAS369/MAS61007, 2023,2024)
+- Mathematical Investigation Skills (MAS1163)
+- Machine learning (MAS369, MAS 61007)
 - Numerical method for engineering and machine learning (BH41112101, Fall 2020)
 - Machine learning and its application to engineering (Spring 2022)
 
