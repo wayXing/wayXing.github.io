@@ -1,7 +1,7 @@
 # switch to python 2.7 for jemdoc
 
 # display all evns
-conda info --envs
+# conda info --envs
 
 # source activate python27
 # install: conda create -n py27 python=2.7
